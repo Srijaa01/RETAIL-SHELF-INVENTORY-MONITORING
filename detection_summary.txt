@@ -1,0 +1,12 @@
+Total detected: 86
+cake: 47
+bottle: 18
+bowl: 2
+sandwich: 3
+person: 1
+cup: 1
+vase: 5
+apple: 2
+donut: 5
+refrigerator: 1
+broccoli: 1
